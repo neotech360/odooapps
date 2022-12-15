@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 15.0-20221202\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-15 14:26+0000\n"
-"PO-Revision-Date: 2022-12-15 15:34+0100\n"
+"PO-Revision-Date: 2022-12-15 23:45+0100\n"
 "Last-Translator: Andriy Byelikov <andriy.byelikov@neotech360.com>\n"
 "Language-Team: \n"
 "Language: es\n"
@@ -493,7 +493,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_followup.field_res_partner__payment_note
 #: model:ir.model.fields,field_description:om_account_followup.field_res_users__payment_note
 msgid "Customer Payment Promise"
-msgstr ""
+msgstr "Compromiso de pago del cliente"
 
 #. module: om_account_followup
 #: model:ir.model.constraint,message:om_account_followup.constraint_followup_line_days_uniq
@@ -640,7 +640,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_followup.field_account_move_line__followup_line_id
 #: model_terms:ir.ui.view,arch_db:om_account_followup.view_om_account_followup_stat_search
 msgid "Follow-up Level"
-msgstr ""
+msgstr "Nivel de seguimiento"
 
 #. module: om_account_followup
 #: model:ir.actions.act_window,name:om_account_followup.action_om_account_followup_definition_form
@@ -658,7 +658,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_followup.field_res_users__payment_responsible_id
 #: model_terms:ir.ui.view,arch_db:om_account_followup.customer_followup_search_view
 msgid "Follow-up Responsible"
-msgstr ""
+msgstr "Responsable del seguimiento"
 
 #. module: om_account_followup
 #: model:ir.model.fields,field_description:om_account_followup.field_followup_print__date
@@ -706,12 +706,12 @@ msgstr ""
 #. module: om_account_followup
 #: model_terms:ir.ui.view,arch_db:om_account_followup.customer_followup_search_view
 msgid "Follow-ups To Do"
-msgstr ""
+msgstr "Seguimientos a realizar"
 
 #. module: om_account_followup
 #: model_terms:ir.ui.view,arch_db:om_account_followup.customer_followup_search_view
 msgid "Followup Level"
-msgstr ""
+msgstr "Nivel de seguimiento"
 
 #. module: om_account_followup
 #: model_terms:ir.actions.act_window,help:om_account_followup.action_om_account_followup_definition_form
@@ -927,7 +927,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_followup.field_res_partner__payment_next_action
 #: model:ir.model.fields,field_description:om_account_followup.field_res_users__payment_next_action
 msgid "Next Action"
-msgstr ""
+msgstr "Siguiente acción"
 
 #. module: om_account_followup
 #: model:ir.model.fields,field_description:om_account_followup.field_res_partner__payment_next_action_date
@@ -938,7 +938,7 @@ msgstr ""
 #. module: om_account_followup
 #: model_terms:ir.ui.view,arch_db:om_account_followup.customer_followup_search_view
 msgid "No Responsible"
-msgstr ""
+msgstr "Sin responsable"
 
 #. module: om_account_followup
 #: model_terms:ir.actions.act_window,help:om_account_followup.account_manual_reconcile_action
@@ -995,7 +995,7 @@ msgstr ""
 #. module: om_account_followup
 #: model_terms:ir.ui.view,arch_db:om_account_followup.customer_followup_search_view
 msgid "Partners with Overdue Credits"
-msgstr ""
+msgstr "Clientes con crédito excedido"
 
 #. module: om_account_followup
 #: model_terms:ir.ui.view,arch_db:om_account_followup.view_partner_inherit_followup_form
